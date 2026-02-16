@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Andesa Lustro, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC Sapopemba, com o curso técnico em Desenvolvimento de Sistemas. Concluí também o ProProfissão em Desenvolvimento Web no Instituto PROA. Sou apaixonada por tecnologia e estou sempre buscando aprender mais e mais. Dê uma olhada no perfil meu projeto mais recente, a "[LinkMunity](https://github.com/Link-Munity)", uma plataforma que dá visibilidade aos comerciantes, e conecta as comunidades com informação segura e que realmente importa.
+Me chamo Andesa Lustro, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC Sapopemba, com o curso técnico em Desenvolvimento de Sistemas. Concluí também o ProProfissão em Desenvolvimento Web no Instituto PROA. Sou apaixonada por tecnologia e estou sempre buscando aprender mais e mais. Atualmente estou cursando faculdade de Análise e Desenvolvimento de Sistemas na SpTech.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/andressa-lustro-lima" target="_blank">
